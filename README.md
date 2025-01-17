@@ -1,11 +1,11 @@
-# moviesite1.github.io
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">   
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Movie and TV Series Tracker</title>
     <style>
+        
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -13,7 +13,7 @@
             background: linear-gradient(to right, #4facfe, #00f2fe);
             color: #333;
         }
-
+        
         header {
             background-color: #1f1f1f;
             color: #ffffff;
